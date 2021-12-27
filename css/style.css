@@ -174,7 +174,7 @@ nav.open .bars-item::before {
 /* navbar part end */
 /* =============================================================================================== */
 header {
-  background: url(../img/banner05.jpg);
+  background: url(../img/mainBanners.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -305,7 +305,7 @@ header .event::after {
 /* ============================ */
 /* testmonial part start */
 #testmonial {
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .test-heading h2 {
   font-size: 50px;
@@ -374,7 +374,7 @@ header .event::after {
 /* slider arrows */
 #testmonial .slick-slide {
   padding: 35px 0px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .testmonialSlider {
   margin: 50px 0;
@@ -1013,7 +1013,7 @@ header .event::after {
 services part start ===================
 */
 #services {
-  background: url(../img/services2.jpg) repeat fixed 100%;
+  background: url(../img/services01.jpg) repeat fixed 100%;
   width: 100%;
   height: 100vh;
   z-index: 1;
@@ -1070,7 +1070,7 @@ services part start ===================
   height: auto;
 }
 #services2 {
-  background: url(../img/services3.jpg) repeat fixed 100%;
+  background: url(../img/services02.jpg) repeat fixed 100%;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1080,7 +1080,7 @@ services part start ===================
   z-index: 1;
 }
 #services3 {
-  background: url(../img/services4.jpg) repeat fixed 100%;
+  background: url(../img/services03.jpg) repeat fixed 100%;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1090,7 +1090,7 @@ services part start ===================
   z-index: 1;
 }
 #services4 {
-  background: url(../img/services5.jpg) repeat fixed 100%;
+  background: url(../img/services04.jpg) repeat fixed 100%;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

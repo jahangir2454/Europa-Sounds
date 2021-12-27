@@ -19,4 +19,9 @@ window.addEventListener("scroll", () => {
   } else {
     scrollU.classList.remove("scrollBtn");
   }
+  // aos scroll animation
+  AOS.init({
+    offset: 250,
+    duration: 700,
+  });
 });
