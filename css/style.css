@@ -731,6 +731,7 @@ header .event::after {
 #gallery {
   margin-top: 130px;
   margin-bottom: 40px;
+  overflow-x: hidden;
 }
 #gallery h2 {
   font-size: 50px;
@@ -796,6 +797,7 @@ header .event::after {
 /* photo booth */
 #photo-colation {
   margin-top: 150px;
+  overflow-x: hidden;
 }
 #photo-colation h2 {
   font-size: 40px;
@@ -891,6 +893,7 @@ header .event::after {
 #contact {
   margin-top: 170px;
   margin-bottom: 50px;
+  overflow-x: hidden;
 }
 .contact-form {
   width: 100%;
@@ -976,6 +979,7 @@ header .event::after {
 /* conatact-maps */
 #contact-maps {
   position: relative;
+  overflow-x: hidden;
 }
 .google-map {
   position: absolute;
@@ -1018,6 +1022,7 @@ services part start ===================
   height: 100vh;
   z-index: 1;
   position: relative;
+  overflow-x: hidden;
 }
 .services-container {
   margin-top: 100px;
@@ -1034,6 +1039,7 @@ services part start ===================
   width: 100%;
   background: rgba(0, 0, 0, 0.699);
   z-index: -1;
+  overflow-x: hidden;
 }
 .services-title {
   margin-left: 20px;
@@ -1078,6 +1084,7 @@ services part start ===================
   height: 100vh;
   position: relative;
   z-index: 1;
+  overflow-x: hidden;
 }
 #services3 {
   background: url(../img/services03.jpg) repeat fixed 100%;
@@ -1088,6 +1095,7 @@ services part start ===================
   height: 100vh;
   position: relative;
   z-index: 1;
+  overflow-x: hidden;
 }
 #services4 {
   background: url(../img/services04.jpg) repeat fixed 100%;
@@ -1098,6 +1106,7 @@ services part start ===================
   height: 100vh;
   position: relative;
   z-index: 1;
+  overflow-x: hidden;
 }
 /* ========================================= */
 /* =====================================contact part css end ======================== */
@@ -1105,6 +1114,7 @@ services part start ===================
 /* =====================================about part css start ======================== */
 #about {
   margin-top: 160px;
+  overflow-x: hidden;
 }
 .about-text h2 {
   font-size: 40px;
